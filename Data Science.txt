@@ -1,0 +1,10 @@
+Capstone Research Project 
+Data Systems
+Visualization
+Machine Learning
+Artificial Intelligence
+Time Series & Prediction
+Linear Models
+Statistical Machine Learning
+Critical Thinking in Data Science
+R
